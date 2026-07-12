@@ -1,2 +1,2 @@
 # Hackathon
-Welcome, This is the offical github for UCD Elecsoc's Hackathon event during the freshers 26/27. 
+Welcome to the offical github for UCD Elecsoc's Hackathon during the freshers 26/27. 
